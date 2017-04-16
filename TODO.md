@@ -1,0 +1,1 @@
+- Process the link redirection first before share it
