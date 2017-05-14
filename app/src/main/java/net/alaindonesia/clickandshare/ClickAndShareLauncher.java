@@ -15,7 +15,7 @@ public class ClickAndShareLauncher extends Activity {
                 "Nothing to shown in here. This just an app launcher. " +
                         "\nJust click a web link in other app." +
                         "\nThen share/send/open it in any app you want",
-                Toast.LENGTH_LONG).show();
+                Toast.LENGTH_SHORT).show();
         finish();
 
     }
