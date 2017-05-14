@@ -1,4 +1,4 @@
-# ClickAndShareInAndroid
+# Caslia - Click and Share Links in Android
 
 A very simple android app for allowing to click a link and open/share/send it.
 
