@@ -1,4 +1,4 @@
-package net.alaindonesia.clickandshare;
+package net.alaindonesia.caslia;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -11,7 +11,7 @@ import org.jsoup.nodes.Document;
 
 import java.io.IOException;
 
-public class ClickAndShareIntent extends Activity {
+public class CasliaIntent extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

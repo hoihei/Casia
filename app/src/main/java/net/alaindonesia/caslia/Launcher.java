@@ -1,11 +1,11 @@
-package net.alaindonesia.clickandshare;
+package net.alaindonesia.caslia;
 
 import android.app.Activity;
 import android.os.Bundle;
 import android.widget.Toast;
 
 
-public class ClickAndShareLauncher extends Activity {
+public class Launcher extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
